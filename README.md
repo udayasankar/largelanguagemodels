@@ -8,5 +8,5 @@ Learn AI engineering: https://github.com/ashishps1/learn-ai-engineering?tab=read
 
 LLM from scratch: https://github.com/rasbt/LLMs-from-scratch
 
-From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence : https://arxiv.org/pdf/2511.18538#page=83.25
+Code Generation LLM Details : From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence : https://arxiv.org/pdf/2511.18538#page=83.25
 
